@@ -1,0 +1,8 @@
+{
+ "modern_ui_app/css/modern_ui_theme.css": [
+  "public/css/modern_ui_theme.css"
+ ],
+ "modern_ui_app/js/modern_ui_app.js": [
+  "public/js/modern_ui_app.js"
+ ]
+}
